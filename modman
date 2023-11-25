@@ -1,5 +1,7 @@
-src/app/code/core/Mage/ProductAlert/                            app/code/core/Mage/ProductAlert/
-src/app/design/frontend/base/default/layout/productalert.xml    app/design/frontend/base/default/layout/productalert.xml
-src/app/design/frontend/base/default/template/productalert/     app/design/frontend/base/default/template/productalert/
-src/app/etc/modules/Mage_ProductAlert.xml                       app/etc/modules/Mage_ProductAlert.xml
-src/app/locale/en_US/Mage_ProductAlert.csv                      app/locale/en_US/Mage_ProductAlert.csv
+src/app/code/core/Mage/ProductAlert/                                app/code/core/Mage/ProductAlert/
+src/app/design/frontend/base/default/layout/productalert.xml        app/design/frontend/base/default/layout/productalert.xml
+src/app/design/frontend/base/default/template/email/productalert/   app/design/frontend/base/default/template/email/productalert/
+src/app/design/frontend/base/default/template/productalert/         app/design/frontend/base/default/template/productalert/
+src/app/design/frontend/rwd/default/template/email/productalert/    app/design/frontend/rwd/default/template/email/productalert/
+src/app/etc/modules/Mage_ProductAlert.xml                           app/etc/modules/Mage_ProductAlert.xml
+src/app/locale/en_US/Mage_ProductAlert.csv                          app/locale/en_US/Mage_ProductAlert.csv
