@@ -1,0 +1,11 @@
+{
+    "name": "openmage-strict/module-product-alert",
+    "description": "Mage_ProductAlert",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-catalog": "*",
+        "openmage-strict/module-customer": "*"
+    }
+}
