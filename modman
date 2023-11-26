@@ -5,3 +5,6 @@ src/app/design/frontend/base/default/template/productalert/         app/design/f
 src/app/design/frontend/rwd/default/template/email/productalert/    app/design/frontend/rwd/default/template/email/productalert/
 src/app/etc/modules/Mage_ProductAlert.xml                           app/etc/modules/Mage_ProductAlert.xml
 src/app/locale/en_US/Mage_ProductAlert.csv                          app/locale/en_US/Mage_ProductAlert.csv
+src/app/locale/en_US/template/email/product_alert_cron_error.html   app/locale/en_US/template/email/product_alert_cron_error.html
+src/app/locale/en_US/template/email/product_price_alert.html        app/locale/en_US/template/email/product_price_alert.html
+src/app/locale/en_US/template/email/product_stock_alert.html        app/locale/en_US/template/email/product_stock_alert.html
